@@ -4,8 +4,8 @@ Sends live chroma key produced in Max 7 (version 7.2.3) to Unity (version 5.3.5f
 
 Copyright (C) 2016 Jeremiah Ambrose.
 
-Email: <j.j.ambrose@brighton.ac.uk>   
-Website: <jeremiahambrose.com>
+Email: j.j.ambrose@brighton.ac.uk   
+Website: http://jeremiahambrose.com
 
 ----------------------------------------------------------------------------------------
 Implementation:
